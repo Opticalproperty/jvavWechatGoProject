@@ -1,0 +1,2 @@
+# jvavWechatGoProject
+openwechat go project
